@@ -1,5 +1,7 @@
 <?php
-
+//Modificadores de acesso
+//Protected todos os herdeiros vejam as propriedades e ou metodos protegidos como se fossem publicos
+//private só é visivel dentro do escopo da classe, para utilizar deve se usar os get e setters ou construct
 class login{
     private $email;
     private $senha;
