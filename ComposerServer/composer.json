@@ -1,0 +1,13 @@
+{
+    "name": "madeira/composer",
+    "description": "Aprendendo Composer",
+    "require": {
+        "dompdf/dompdf": "^0.8.6"
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gmmanjos@gmail.com"
+        }
+    ]
+}
