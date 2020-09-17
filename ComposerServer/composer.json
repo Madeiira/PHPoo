@@ -2,7 +2,8 @@
     "name": "madeira/composer",
     "description": "Aprendendo Composer",
     "require": {
-        "dompdf/dompdf": "^0.8.6"
+        "dompdf/dompdf": "^0.8.6",
+        "cocur/slugify": "^4.0"
     },
     "authors": [
         {
