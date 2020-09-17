@@ -1,5 +1,6 @@
 <?php
-//Quando uma classe precisa de outra para executar sua ação, ultiliza parte de outra classe para si
+//Agregacao Quando uma classe precisa de outra para executar sua ação, ultiliza parte de outra classe para si, fora do seu escopo
+
 
 class Produtos{
     public $produto;
